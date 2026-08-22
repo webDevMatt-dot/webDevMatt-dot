@@ -96,10 +96,9 @@ Custom Next.js storefront over Shopify's commerce backend, with the full catalog
 
 ---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=webDevMatt-dot&show_icons=true&hide_border=true&bg_color=0d0f14&title_color=4ade80&text_color=8b95a7&icon_color=38bdf8" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webDevMatt-dot&layout=compact&hide_border=true&bg_color=0d0f14&title_color=4ade80&text_color=8b95a7" alt="Top languages">
-</p>
+### Currently
+
+Building at **Godji Tech (PTY) Ltd** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most of my client work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
 
 ---
 

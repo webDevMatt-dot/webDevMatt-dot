@@ -1,112 +1,147 @@
-<h1 align="center">Matthew Gift Luis</h1>
+# Matthew Gift Luis
 
-<p align="center">
-  <b>Full-stack developer</b> &nbsp;·&nbsp; Founder at <b>Godji Tech (PTY) Ltd</b>
-</p>
+**Full-stack developer** · Founder at **Godji Tech (PTY) Ltd**
 
-<p align="center">
-  I design and build web platforms, e-commerce systems, mobile apps and the automation<br>
-  that holds a business together. Front end to infrastructure.
-</p>
+I design and build web platforms, e-commerce systems, mobile apps and the automation that holds a business together. Front end to infrastructure.
 
-<p align="center">
-  <a href="https://webdevmatt-dot.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-View-4ade80?style=for-the-badge&labelColor=0d0f14" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/matthew-gift-luis-199505210/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0f14" alt="LinkedIn"></a>
-  <a href="mailto:mgluis530@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0f14" alt="Email"></a>
-  <a href="https://wa.me/258847010340"><img src="https://img.shields.io/badge/WhatsApp-MZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0f14" alt="WhatsApp Mozambique"></a>
-  <a href="https://wa.me/27716134107"><img src="https://img.shields.io/badge/WhatsApp-ZA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0f14" alt="WhatsApp South Africa"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-4ade80?style=flat-square&labelColor=0d0f14)](https://webdevmatt-dot.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0f14)](https://www.linkedin.com/in/matthew-gift-luis-199505210/)
+[![Email](https://img.shields.io/badge/Email-mgluis530-38bdf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0f14)](mailto:mgluis530@gmail.com)
+[![WhatsApp MZ](https://img.shields.io/badge/WhatsApp-MZ-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0f14)](https://wa.me/258847010340)
+[![WhatsApp ZA](https://img.shields.io/badge/WhatsApp-ZA-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0d0f14)](https://wa.me/27716134107)
 
 ---
 
-### What I do
+## What I do
 
-I work end to end — the **Next.js** front end a user touches, the **Node / Python / PHP / Django** services behind it, the **PostgreSQL** schema underneath, and the **AWS / Netlify / Hostinger** pipeline that puts it live.
+**Build the product** — platforms, storefronts and apps from scratch. Web, mobile, or both.
 
-| | |
-|---|---|
-| 🏗️ **Build the product** | Platforms, storefronts and apps from scratch. Web, mobile, or both. |
-| 🔌 **Connect the systems** | CRM, payments, Shopify and workspace tools wired together through APIs and automation. |
-| ☁️ **Run the infrastructure** | Domains, hosting, mail, CI/CD and cloud deployment — and keeping it up afterwards. |
+**Connect the systems** — CRM, payments, Shopify and workspace tools wired together through APIs and automation.
+
+**Run the infrastructure** — domains, hosting, mail, CI/CD, containers and cloud deployment, and keeping it up afterwards.
 
 > **Founder — Godji Tech (PTY) Ltd.** Software and IT company. We take on web and mobile builds, e-commerce, business automation, CRM and payment integrations, and infrastructure or deployment work. From scoping through to running it in production.
 
 ---
 
-### Selected work
+## Selected work
 
-**[Neeps Group — Website & CRM Suite](https://webdevmatt-dot.github.io/portfolio/case-studies/neeps-group.html)**
+### [Neeps Group — Website & CRM Suite](https://webdevmatt-dot.github.io/portfolio/case-studies/neeps-group.html)
+
 Three coordinated Next.js 16 apps over one Postgres database. Public site plus a custom CRM and operations console: leads, deals, inbox, team, leave approvals, server-side PDF generation, vouchers and analytics.
+
 `Next.js 16` `React 19` `Prisma` `PostgreSQL` `NextAuth` `react-pdf`
 
-**[Female Founders Initiative Global](https://webdevmatt-dot.github.io/portfolio/case-studies/female-founders.html)**
-Membership community platform — Flutter app for members and admins over a Django/DRF backend. OTP auth, four access tiers, events with QR ticket verification, payments, messaging and a full moderation console.
+### [Ada — Church Digital Platform](https://webdevmatt-dot.github.io/portfolio/case-studies/ada.html)
+
+Platform for a national denomination in Mozambique — congregation directory on a live map, shop, recruitment, prayer and helpline handling, and a fifteen-area admin console. Next.js and Django across four containers on a self-hosted VPS.
+
+`Next.js` `Django` `PostgreSQL` `Docker` `nginx` `Leaflet`
+
+### [Female Founders Initiative Global](https://webdevmatt-dot.github.io/portfolio/case-studies/female-founders.html)
+
+Membership community platform — Flutter app for members and admins over a Django/DRF backend. OTP auth, four access tiers, events with QR ticket verification, payments, messaging, delivery monitoring and release control.
+
 `Flutter` `Django` `DRF` `Python` `PostgreSQL` `Payments`
 
-**[Nutrir Foods](https://webdevmatt-dot.github.io/portfolio/case-studies/nutrir-foods.html)**
-Custom Next.js storefront over Shopify's commerce backend, with the full catalogue — copy, categories, variants, metafields and SEO — generated by a Python pipeline instead of entered by hand.
-`Next.js` `Shopify` `Python` `TypeScript` `Tailwind`
+### [Dookie Deluxe — Digestive Health Tracker](https://webdevmatt-dot.github.io/portfolio/case-studies/dookie-deluxe.html)
 
-**[BE Africa](https://webdevmatt-dot.github.io/portfolio/case-studies/be-africa.html)**
+A Godji Tech product. Cross-platform gut-health tracking — daily logging, a regularity score with per-factor breakdown, urgency-graded symptom checking, biometric-locked health data and doctor-ready PDF reports.
+
+`Expo` `React Native` `Supabase` `TypeScript` `iOS` `Android`
+
+### [BE Africa](https://webdevmatt-dot.github.io/portfolio/case-studies/be-africa.html)
+
 Site for a Pan-African creative agency working with Nivea, Unilever and Hennessy. A three.js fluid background, and Paystack payments in cedis verified server-side against status, amount and currency before anything counts as paid.
+
 `Next.js 16` `React 19` `three.js` `Paystack` `Netlify`
 
-**[Dookie Deluxe](https://dookiedeluxe.com/)** · Brand website plus companion mobile app, built as one product across web and mobile.
-`Flutter` `Android` `iOS` `Next.js`
+### [Nutrir Foods](https://webdevmatt-dot.github.io/portfolio/case-studies/nutrir-foods.html)
 
-**[Ada](https://ada.org.mz/)** · Church digital platform — site, content management, events, media and member communication.
-`React` `Node.js` `Netlify` `Google Workspace`
+Custom Next.js storefront over Shopify's commerce backend, with the full catalogue — copy, categories, variants, metafields and SEO — generated by a Python pipeline instead of entered by hand.
 
-**Business Automation & Payment Integrations** · CRM and gateway integrations, webhook handling, reconciliation and the error paths that decide whether a transaction quietly fails or gets recovered.
-`Python` `Node.js` `PHP` `REST` `Webhooks`
+`Next.js` `Shopify` `Python` `TypeScript` `Tailwind`
 
-<p align="right"><a href="https://webdevmatt-dot.github.io/portfolio">→ Full portfolio with case studies</a></p>
+**Also:** business automation and CRM integrations, payment gateway work, and IT infrastructure and deployment across AWS, Netlify, Hostinger and self-hosted VPS.
 
----
-
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify">
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Workspace">
-  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=flat-square&logo=wix&logoColor=white" alt="Wix">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger">
-  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=white" alt="GoDaddy">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+[**→ Full portfolio with case studies**](https://webdevmatt-dot.github.io/portfolio)
 
 ---
 
-### Currently
+## Stack
 
-Building at **Godji Tech (PTY) Ltd** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most of my client work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Payments**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white)
+![Shopify Payments](https://img.shields.io/badge/Shopify_Payments-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Platforms & Tools**
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Wix](https://img.shields.io/badge/WIX-0C6EFC?style=flat-square&logo=wix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<p align="center">
-  <b>Open to freelance projects, contract work and full-time roles.</b><br>
-  <sub>mgluis530@gmail.com &nbsp;·&nbsp; +258 84 701 0340 &nbsp;·&nbsp; +27 71 613 4107</sub>
-</p>
+## Currently
+
+Building at **Godji Tech (PTY) Ltd** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most client work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
+
+---
+
+## Get in touch
+
+- **Email** — mgluis530@gmail.com
+- **WhatsApp** — [+258 84 701 0340](https://wa.me/258847010340) · [+27 71 613 4107](https://wa.me/27716134107)
+- **LinkedIn** — [matthew-gift-luis](https://www.linkedin.com/in/matthew-gift-luis-199505210/)
+- **Portfolio** — [webdevmatt-dot.github.io/portfolio](https://webdevmatt-dot.github.io/portfolio)
+
+Open to freelance projects, contract work and full-time roles.

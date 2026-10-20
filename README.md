@@ -20,7 +20,7 @@ I design and build web platforms, e-commerce systems, mobile apps and the automa
 
 **Run the infrastructure** — domains, hosting, mail, CI/CD, containers and cloud deployment, and keeping it up afterwards.
 
-> **Founder — Godji Tech (PTY) Ltd.** Software and IT company. We take on web and mobile builds, e-commerce, business automation, CRM and payment integrations, and infrastructure or deployment work. From scoping through to running it in production.
+> **Co-Founder — Godji Tech (PTY) Ltd.** Software and IT company. We take on web and mobile builds, e-commerce, business automation, CRM and payment integrations, and infrastructure or deployment work. From scoping through to running it in production.
 
 ---
 

@@ -1,6 +1,6 @@
 # Matthew Gift Luis
 
-**Full-stack developer** · Founder at **Godji Tech (PTY) Ltd**
+**Full-stack developer** · Co-Founder at **Godji Tech (PTY) Ltd**
 
 I design and build web platforms, e-commerce systems, mobile apps and the automation that holds a business together. Front end to infrastructure.
 
@@ -134,6 +134,7 @@ Custom Next.js storefront over Shopify's commerce backend, with the full catalog
 ## Currently
 
 Building at **Godji Tech (PTY) Ltd**, the company I co-founded, and as a software engineer at **NEEPS Group** and **Female Founders Initiative Global** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most of this work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
+
 ---
 
 ## Get in touch

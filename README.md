@@ -133,8 +133,7 @@ Custom Next.js storefront over Shopify's commerce backend, with the full catalog
 
 ## Currently
 
-Building at **Godji Tech (PTY) Ltd** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most client work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
-
+Building at **Godji Tech (PTY) Ltd**, the company I co-founded, and as a software engineer at **NEEPS Group** and **Female Founders Initiative Global** — web and mobile products, e-commerce, business automation and the infrastructure underneath. Most of this work lives in private repositories, so the [portfolio](https://webdevmatt-dot.github.io/portfolio) is the better view of what I actually ship.
 ---
 
 ## Get in touch

@@ -12,6 +12,18 @@ I design and build web platforms, e-commerce systems, mobile apps and the automa
 
 ---
 
+## Live products I built and run
+
+Live on the web, the App Store and Google Play. The code is private (they're commercial products), so each one has a case study with screenshots, what I built and the stack.
+
+| | |
+|---|---|
+| [![The Wedding Library](images/wedding-library.jpg)](https://github.com/webDevMatt-dot/wedding-library-case-study) | **[The Wedding Library](https://github.com/webDevMatt-dot/wedding-library-case-study)**<br>Wedding planner, wedding website, guest list, registry and vendor marketplace for South African weddings. Next.js 16 web app plus Expo apps on iOS and Android.<br>[weddings.godjitech.com](https://weddings.godjitech.com) · [App Store](https://apps.apple.com/us/app/wedding-library/id6811011359) · [Google Play](https://play.google.com/store/apps/details?id=com.godjitech.weddinglibrary) |
+| [![Godji Tech](images/godji-tech.jpg)](https://github.com/webDevMatt-dot/godji-tech-platform-case-study) | **[Godji Tech platform](https://github.com/webDevMatt-dot/godji-tech-platform-case-study)**<br>The website, back office (CRM, invoicing, a multi-business Paystack ledger, shop fulfilment) and companion app that run the company, including an app that writes NFC wedding invitations.<br>[godjitech.com](https://godjitech.com) |
+| [![Dookie Deluxe](images/dookie-deluxe.jpg)](https://github.com/webDevMatt-dot/dookie-deluxe-case-study) | **[Dookie Deluxe](https://github.com/webDevMatt-dot/dookie-deluxe-case-study)**<br>A gut-health tracker with a sense of humour: a regularity score, trends, challenges with friends and doctor-ready PDF reports.<br>[dookiedeluxe.com](https://dookiedeluxe.com) · [App Store](https://apps.apple.com/app/dookie-deluxe/id6800608753) · [Google Play](https://play.google.com/store/apps/details?id=com.dookie_deluxe) |
+
+---
+
 ## What I do
 
 **Build the product** — platforms, storefronts and apps from scratch. Web, mobile, or both.
